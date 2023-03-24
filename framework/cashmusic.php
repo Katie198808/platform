@@ -1,4 +1,4 @@
-<?php
+<?phpspotify
 /**
  *
  * This is the framework bootstrap script. It preps the environment (strips out 
